@@ -1,18 +1,19 @@
-- [**茉忘初心**](README.md)
 
-- **文档**
-- [项目介绍](doc/文档/项目介绍.md)
-  - [技术选型](doc/文档/技术选型.md)
-  - 项目搭建
-    - [Windows环境下搭建](doc/文档/项目搭建/Windows环境下搭建蘑菇博客/README.md)
-    - [Docker搭建](doc/文档/项目搭建/Docker搭建蘑菇博客/README.md)
-    - [部署到云服务器](doc/文档/项目搭建/蘑菇博客部署到云服务器/README.md)
-    - [Github Actions完成持续集成](doc/文档/项目搭建/蘑菇博客使用GithubAction完成持续集成/README.md)
-    - [切换搜索模式](doc/文档/项目搭建/蘑菇博客切换搜索模式/README.md)
-    - [配置七牛云对象存储](doc/文档/项目搭建/蘑菇博客配置七牛云存储/README.md)
-    - [使用Zipkin搭建链路追踪](doc/文档/项目搭建/使用Zipkin搭建蘑菇博客链路追踪/README.md)
+* [备战面试](./docs/a-1备战面试.md)
   
-- **其他**
-- [致谢](doc/文档/致谢.md)
-  - [将要做的事](doc/文档/将要做的事.md)
-  - [贡献代码](doc/文档/贡献代码.md)
+* Java
+
+  * [Java基础](./docs/b-1面试题总结-Java基础.md)
+  * [Java集合](./docs/b-2Java集合.md)
+  * [Java多线程](./docs/b-3Java多线程.md)
+  * [jvm](./docs/b-4jvm.md)
+
+* 计算机基础
+
+  * [计算机网络](./docs/c-1计算机网络.md)
+  * [数据结构](./docs/c-2数据结构.md)
+  * [算法](./docs/c-3算法.md)
+  * [操作系统](./docs/c-4操作系统.md)
+
+  
+
